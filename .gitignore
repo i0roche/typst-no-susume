@@ -1,0 +1,3 @@
+# tools/bench/gen.py と measure.py が作るファイル
+tools/bench/bench*
+tools/bench/fig1.png
